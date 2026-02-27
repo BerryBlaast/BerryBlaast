@@ -1,27 +1,101 @@
-# 💫 About Me:
-About Me<br><br>🔭 Currently working on:<br>Cybersecurity labs, vulnerability assessment, Red teaming, and system-level programming in C/C++ and Assembly, Reverse Engineering.<br><br>👯 Open to collaborate on:<br>Security research projects, CTF writeups, and open-source tools related to penetration testing and systems programming.<br><br>🌱 Currently learning:<br>Exploit development, reverse engineering, operating systems, and secure software practices.<br><br>💬 Ask me about:<br>Nothing ) 0w0<br>⚡ Fun fact:<br>I enjoy understanding systems at their lowest level and building structured, well-documented technical projects.
+<div align="center">
+   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" alt="Waving Header"/>
+</div>
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=B24392&size=35&center=true&vCenter=true&random=false&width=435&lines=Hi+all!+%F0%9F%91%8B+I'm+Muhammad+Usman" alt="Muhammad Usman" />
+</h1>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=36BCF7&vCenter=true&height=35&width=600&lines=Cyber+Security+Student;Red+Teamer+&+CTF+Player;Reverse+Engineer;Programmer" alt="Typing SVG" />
+</div>
+
+<h3 align="center">| Cybersecurity Researcher | Certified Red Teaming Analyst (CRTA) | Reverse Engineer |</h3>
+
+<br>
+
+## 💫 About Me:
+
+- 🎓 **Currently studying:** B.S. in Cybersecurity (4th Semester) at Air University, Islamabad.
+- 🏆 **Certifications:** Certified Red Teaming Analyst (CRTA).
+- 🔭 **Currently working on:** Cybersecurity research
+- 🌱 **Currently learning:** Network Security, Operating Systems internals, Vulnerability Assessment, and advanced Reverse Engineering.
+- 👯 **Open to collaborate on:** Security research papers, CTF development, and open-source Red Teaming tools.
+- 💬 **Ask me about:** Red Teaming tactics, OS architecture, spotting vulnerabilities, or how to keep a cat off your keyboard during a CTF! 🐈‍⬛ (Always open to learning new things from others, too!)
+- ⚡ **Fun fact:** I love understanding systems at their absolute lowest level. When I'm not debugging or reverse engineering, you can probably find me in solitude or hanging out with my cat, Mano. hehe
+
+<br>
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Rv6VvxrR) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/http._.usman) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/usmani-graphic-designer) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ParadoxicalGlitxh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:usmanemail17@gmail.com) 
+<div align="left">
+  <a href="https://discord.gg/Rv6VvxrR"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://linkedin.com/in/usmani-graphic-designer"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://medium.com/@ParadoxicalGlitxh"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="https://instagram.com/http._.usman"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
+  <a href="mailto:usmanemail17@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BerryBlaast&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=BerryBlaast&theme=codeSTACKr&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BerryBlaast&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=BerryBlaast&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## 💻 Tech Stack:
+<div align="left">
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Assembly-%23000000.svg?style=for-the-badge&logo=assembly&logoColor=white" alt="Assembly">
+  <img src="https://img.shields.io/badge/Bash_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX">
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/TOR-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white" alt="TOR">
+</div>
+
+<br>
+
+### 🎨 Past Hobbies (Graphic Design)
+I used to do a lot of graphic design and freelancing a few years back. Since joining university, my goals shifted entirely into tech and security, but here are some of the tools I used to work with:
+<div align="left">
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator">
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop">
+  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" alt="Lightroom">
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Premiere Pro">
+  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" alt="After Effects">
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">
+</div>
+
+<br>
+
+## 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BerryBlaast&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=BerryBlaast&theme=codeSTACKr&hide_border=false" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BerryBlaast&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
+
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BerryBlaast&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Trophies" />
+</div>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+</div>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=BerryBlaast&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=BerryBlaast&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repo" />
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=BerryBlaast&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=BerryBlaast&icon=0&color=0" alt="Profile Views">
+  </a>
+</div>
